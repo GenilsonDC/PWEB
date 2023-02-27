@@ -6,57 +6,35 @@
 
  
 
-**PROGRAMAÇÃO WEB**
+​	**PROGRAMAÇÃO WEB**
 
  
 
-Atividade 2 – Pesquisa
-
- 
-
- 
-
- 
-
-​                                 Prof.ª: DENILCE DE ALMEIDA OLIVEIRA
-
-​                                 Disciplina: Programação WEB
-
- 
-
-   
-
-​                                    
+​	Atividade 2 – Pesquisa
 
  
 
  
 
- 
+​    Prof.ª: DENILCE DE ALMEIDA OLIVEIRA
 
- 
+​      Disciplina: Programação WEB
 
- 
+​                      
 
- 
-
- 
+  
 
 Responsável: GENILSON DO CARMO
 
- 
+  
 
  
 
  
 
- 
+Sorocaba, fevereiro/2023
 
- 
 
-Sorocaba
-
-fevereiro/2023
 
 Sumário
 
@@ -80,13 +58,11 @@ Sumário
 
  
 
-# Introdução
-
- 
+### Introdução 
 
 ​      O seguinte documento visa comparar os diferentes resultados entre os motores de pesquisa na internet Bing, Google o novo ChatGPT, para a seguinte pergunta: **Diferenças entre aplicativo nativo, site e progressive web app**, abaixo apresentarei somente caso houver o resultado destacado de cada motor e a resposta do ChatGPT, sem o compromisso de uma pesquisa de diferentes fontes e elaboração de um resumo, mas sim somente uma simples comparação entre os dois maiores motores de pesquisa vs o ChatGPT, qual deles nos trará mais produtividade no dia a dia?
 
-# Bing
+### Bing
 
  
 
@@ -104,7 +80,7 @@ O Bing traz uma parte de uma matéria publicado pela Equipe TecMundo do Tecmundo
 
  
 
-# Google
+### Google
 
  
 
@@ -120,7 +96,7 @@ O mesmo acontece com o Google que também apresentou em destaque como resultado 
 
  
 
-# ChatGPT
+### ChatGPT
 
  
 
@@ -138,7 +114,7 @@ Em resumo, os aplicativos nativos oferecem a melhor experiência de usuário e a
 
 ​      Aqui temos uma abordagem totalmente diferente e mais inteligente, temos de fato uma resposta.
 
-# Conclusão
+### Conclusão
 
  
 
@@ -146,14 +122,14 @@ Até o a seguinte pesquisa, nota-se que os motores de pesquisa “padrão” tra
 
  
 
-# Referências
+### Referências
 
 
 
-| [1]  | H. Yang, “Qual a    diferença entre web app, app nativo e app híbrido?,” 25 janeiro 2017. [Online].    Available: https://blog.fabricadeaplicativos.com.br/fabapp/qual-diferenca-entre-web-app-app-nativo-e-aplicativo-hibrido/#:~:text=Diferentemente%20do%20app%20nativo%20e,se%20estiver%20conectado%20%C3%A0%20internet.. |
-| ---- | ------------------------------------------------------------ |
-| [2]  | Equipe TecMundo,    “Desenvolvimento de app: escolhendo a linguagem de programação,” 01 outubro    2020. [Online]. Available:    https://www.tecmundo.com.br/software/204629-desenvolvimento-app-escolhendo-linguagem-programacao.htm#:~:text=Os%20progressive%20web%20apps%20s%C3%A3o%2C%20na%20verdade%2C%20sites,conte%C3%BAdo%20da%20web%20o%20espa%C3%A7o%20total%20do%20dispositivo.. |
-| [3]  | ChatGPT, “Chat openai,” Open AI, 27 fevereiro 2023.    [Online]. Available: https://chat.openai.com/chat. [Acesso em 27 fevereiro 2023]. |
+| H. Yang, “Qual a    diferença entre web app, app nativo e app híbrido?,” 25 janeiro 2017. [Online].    Available: https://blog.fabricadeaplicativos.com.br/fabapp/qual-diferenca-entre-web-app-app-nativo-e-aplicativo-hibrido/#:~:text=Diferentemente%20do%20app%20nativo%20e,se%20estiver%20conectado%20%C3%A0%20internet.. |
+| ------------------------------------------------------------ |
+| Equipe TecMundo,    “Desenvolvimento de app: escolhendo a linguagem de programação,” 01 outubro    2020. [Online]. Available:    https://www.tecmundo.com.br/software/204629-desenvolvimento-app-escolhendo-linguagem-programacao.htm#:~:text=Os%20progressive%20web%20apps%20s%C3%A3o%2C%20na%20verdade%2C%20sites,conte%C3%BAdo%20da%20web%20o%20espa%C3%A7o%20total%20do%20dispositivo.. |
+| ChatGPT, “Chat openai,” Open AI, 27 fevereiro 2023.    [Online]. Available: https://chat.openai.com/chat. [Acesso em 27 fevereiro 2023]. |
 
  
 
