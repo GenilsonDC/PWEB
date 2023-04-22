@@ -6,11 +6,11 @@
 
 ### Tecnologias
 
-#### ![pngwing.com (1)](B:\Cursos\Fatec ADS\1-2023\PW\pngwing.com (1).png) 
+#### ![pngwing.com (1)](img\pngwing.com (1).png) 
 
 ### 
 
-#### ![pngwing.com](B:\Cursos\Fatec ADS\1-2023\PW\pngwing.com.png)
+#### ![pngwing.com](img\pngwing.com.png)
 
 ### 
 
