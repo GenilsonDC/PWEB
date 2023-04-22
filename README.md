@@ -2,7 +2,7 @@
 
 ### 👨‍💻Programação WEB .:.
 
-![pngwing.com (1)](PWEB\img\pngwing.com (1).png)
+![pngwing.com (1)](img\pngwing.com (1).png)
 
 ### Tecnologias
 
