@@ -1,10 +1,9 @@
-var base = prompt("🧑🏽‍💻 Digite a base do retangulo: ");
-var altura = prompt("🧑🏽‍💻 Digite a altura do retangulo: ");
+var base = prompt("✏️ Digite o valor da base: ");
+var altura = prompt("✏️ Digite o valor da altura: ");
 var retangulo = {};
+
 retangulo.altura = altura;
 retangulo.base = base;
-var area = ` 📐 Area do retangulo = ${retangulo.base * retangulo.altura}M²`;
+var area = `📐 Área do retangulo= ${retangulo.base * retangulo.altura}M2`;
 
-// var areaRt = `${area}`;
-
-var ResArea = document.querySelector("area").value;
+var any = document.querySelector().value;
