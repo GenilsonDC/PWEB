@@ -1,21 +1,21 @@
-// function checarDados() {
-//   if (
-//     document.forms.formularioNome.elements[0].value == "" ||
-//     document.forms.formularioNome.elements[0].lenth < 3
-//   ) {
-//     alert("✏️ Preencha o campo Nome corretamente!");
-//     document.forms.formularioNome.elements[0].focus();
-//     return false;
-//   }
-//   //   if (
-//   //     document.forms.formularioNome.elements[1].value == "" ||
-//   //     document.forms.formularioNome.elements[1].lenth < 3
-//   //   )
-//   //     alert("✏️ Preencha o campo Sobrenome corretamente!");
+/*function checarDados() {
+  if (
+    document.forms.formularioNome.elements[0].value == "" ||
+    document.forms.formularioNome.elements[0].lenth < 3
+  ) {
+    alert("✏️ Preencha o campo Nome corretamente!");
+    document.forms.formularioNome.elements[0].focus();
+    return false;
+  }
+  //   if (
+  //     document.forms.formularioNome.elements[1].value == "" ||
+  //     document.forms.formularioNome.elements[1].lenth < 3
+  //   )
+  //     alert("✏️ Preencha o campo Sobrenome corretamente!");
 
-//   //   document.forms.formularioNome.elements[1].focus();
-//   //   return false;
-// }
+  //   document.forms.formularioNome.elements[1].focus();
+  //   return false;
+}*/
 function Maisculo() {
   document.getElementById("idNome").value = document
     .getElementById("idNome")
