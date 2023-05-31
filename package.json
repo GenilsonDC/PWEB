@@ -1,0 +1,15 @@
+{
+  "name": "pweb",
+  "version": "1.0.0",
+  "description": "​\t<img heigth=\"80\" width=\"80\" src=\"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
