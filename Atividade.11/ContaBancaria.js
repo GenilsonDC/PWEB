@@ -69,7 +69,7 @@ contaPoupanca = new Poupanca();
 // CONTA CORRENTE
 contaCC.setNome("👤 Genilson do Carmo ");
 contaCC.setBanco("🏛️ Banco iNTER ");
-contaCC.setNumero(0987);
+contaCC.setNumero(987);
 contaCC.setSaldo(2000.56);
 contaCC.setSaldoEspecial(5000.0);
 
@@ -77,7 +77,7 @@ contaCC.setSaldoEspecial(5000.0);
 
 contaPoupanca.setNome("👤 Genilson do Carmo ");
 contaPoupanca.setBanco("🏛️ Banco iNTER ");
-contaPoupanca.setNumero(0987);
+contaPoupanca.setNumero(987);
 contaPoupanca.setSaldo(22400.26);
 contaPoupanca.setSaldoJuros(360.0);
 
